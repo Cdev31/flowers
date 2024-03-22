@@ -1,0 +1,16 @@
+{
+  "name": "flores_nilverti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
